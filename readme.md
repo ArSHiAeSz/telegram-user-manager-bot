@@ -28,7 +28,12 @@ project/
 ├── database.py
 └── README.md
 ---
+---
 
+## Author
+-Arshia Eisazadeh
+-Python developer 
+---
 ## Setup & Run
 
 ### 1. Install dependencies
