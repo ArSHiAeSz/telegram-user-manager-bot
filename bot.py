@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 from database import create_table, add_user, user_exists
 
-TOKEN = 8511659581:AAErgiM8FHd-ZahIXl4Rk4JpRHT7awYEOy0
+TOKEN = 198734298hcjnjjpawooc ### fake token 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("سلام 👋\nبرای ثبت نام /register رو بزن")
